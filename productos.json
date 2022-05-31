@@ -1,0 +1,6 @@
+[
+    {"id":1, "nombre":"Degustación", "cantidad":6, "precio":750, "img":"imagenes/galeria.jpg"},
+    {"id":2, "nombre":"Malvadiense", "cantidad":12, "precio":1250, "img":"imagenes/galeria.jpg"},
+    {"id":3, "nombre":"Grande", "cantidad":16, "precio":1750, "img":"imagenes/galeria.jpg"},
+    {"id":4, "nombre":"Promo Malva", "cantidad":32, "precio":3200, "img":"imagenes/galeria.jpg"}
+]
